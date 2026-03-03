@@ -6,8 +6,8 @@
 </div>
 
 <div align="center">
-  <img src="https://www.google.com/search?q=https://img.shields.io/github/license/vcnbianchi/yafa%3Fstyle%3Dflat-square" alt="License" />
-  <img src="https://www.google.com/search?q=https://img.shields.io/github/stars/vcnbianchi/yafa%3Fstyle%3Dflat-square" alt="Stars" />
+  <img src="https://img.shields.io/badge/License-MIT-blue?style=flat-square&logo=github" alt="License" />
+  <img src="https://img.shields.io/badge/Status-In_Development-orange?style=flat-square&logo=github" alt="Status" />
 </div>
 
 # Proposal
